@@ -1,14 +1,6 @@
-/*
- * Olalekan Ogunmolu
- * [ogunmolu@amazon.com] | <<ecs.utdallas.edu/~olalekan.ogunmolu>>
- * 
- * Licensed under The MIT License.
- * Redistributions of files must retain the above copyright notice.
- *
- * March 22, 2016
- */
 
 #include <ros/ros.h>
+//ignore previous
 
 #include <sys/socket.h>
 #include <sys/types.h>
